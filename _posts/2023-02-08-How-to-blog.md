@@ -24,8 +24,11 @@ The goal of this post is to show you how to take a list of integers and order th
 5. Inside of this if statement is where the swapping of values occurs. If x[i] is bigger, you want to swap the values. To do this, you need to store one in a temporary variable, change that value to the other indexed values, and then use the temporary variable to change the other index.
 
     y = x[i]
+    
     x[i] = x[j]
+    
     x[j] = y
+    
 These are all of the steps that you need to sort the list. When you put them all together, it looks like this.
 
         for i in range(len(x)):

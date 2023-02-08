@@ -32,13 +32,14 @@ These are all of the steps that you need to sort the list. When you put them all
     
     for j in range(i+1, len(x)):
     
-        if(x[i] < x[j]):
+       if(x[i] < x[j]):
         
-            y = x[i]
+           y = x[i]
             
-            x[i] = x[j]
+           x[i] = x[j]
             
-            x[j] = y
+           x[j] = y
+           
 If you desired to turn this into a function it would be very easy. All you would have to do is add a line before with the function name and add that it takes a list an input. 
 
 def function_name(list_name): 

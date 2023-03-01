@@ -3,7 +3,7 @@ layout: post
 title:  "How Much do Computers Misunderstand us"
 author: Brannon Olive
 description: My thoughts on Artificial Unintelligence
-image: /assets/images/copmuters.jpg
+image: /assets/images/computers.jpg
 ---
 
 Artificial Unintelligence: How Computers Misunderstand the World, written by Meredith Broussard, is a compelling exploration of the limitations of computer systems and the myth of their infallibility. The book is an eye-opening journey that challenges the widely held perception that technology is neutral and objective. Broussard argues that computers are not as intelligent as we think and are not capable of replacing human judgment.

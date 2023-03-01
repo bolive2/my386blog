@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How Much do Computers Misunderstand us"
-author: Brannon Olive
+author: 'Brannon Olive'
 description: My thoughts on Artificial Unintelligence: How Computers Misunderstand the World by Meredith Broussard
 image: /assets/images/blog-image.jpg
 ---

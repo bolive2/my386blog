@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Book Review"
+title:  "How Much do Computers Misunderstand us"
 author: Brannon Olive
-description: Just some of my thoughts
+description: My thoughts on Artificial Unintelligence: How Computers Misunderstand the World by Meredith Broussard
+
 image: /assets/images/blog-image.jpg
 ---
 

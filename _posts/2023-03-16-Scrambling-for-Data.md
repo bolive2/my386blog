@@ -6,6 +6,8 @@ description: Finding and creating useable data from professional golfers.
 image: /assets/images/golfBall.jpeg
 ---
 
+## Background
+
 The data that I found was different stats from professional golfers from this year. To figure out whether or not this data was ethical to scrap from ESPN,
 I looked at the robot.txt page. I found the urls of the pages that I wanted to take the data from and looked if the extensions were on the disallowed list.
 I did not find any of the extensions on the page so I decided that there wouldn't be anything wrong with using this data. 
@@ -17,7 +19,9 @@ Once that was dropped, I just merged the two tables together using their names a
 are no longer on the PGA Tour but are still on the world rankings. The stats for players not on the PGA Tour is not as available as for the golfers who do play on the Tour.
 Here is an example of the data and a few of the top ranked golfers.
 
-![Figure](https://github.com/bolive2/my386blog/blob/main/assets/images/GolferChart.png)
+![Figure](https://raw.githubusercontent.com/bolive2/my386blog/main/assets/images/GolferChart.png)
+
+## Goal
 
 The data includes several stats that are important parts of golf as well as the ranking for golfers that have prefromed good enough to receive one. I want to look 
 at the data and see which stats are common among the top golfers and which ones lead to a golfer not being ranked as high. These stats inlcude things like how far 

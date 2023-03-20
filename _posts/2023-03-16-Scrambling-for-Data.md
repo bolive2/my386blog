@@ -10,7 +10,13 @@ image: /assets/images/golfBall.jpeg
 
 The data that I found was different stats from professional golfers from this year. To figure out whether or not this data was ethical to scrap from ESPN,
 I looked at the robot.txt page. I found the urls of the pages that I wanted to take the data from and looked if the extensions were on the disallowed list.
-I did not find any of the extensions on the page so I decided that there wouldn't be anything wrong with using this data. 
+I did not find any of the extensions on the page so I decided that there wouldn't be anything wrong with using this data.
+
+Here are links to the two pages where I got the tables from:
+
+https://www.espn.com/golf/stats/player
+
+https://www.espn.com/golf/rankings
 
 The data was not all in one table, so I did have to take each table off one by one and join them together. On ESPN, I found a page that had most of these stats for each player. 
 The big one that was missing was the ranking. So I scrapped the web page for the table with the stats and did the same for the table with the rankings. Before joining, I had to make 
@@ -18,6 +24,7 @@ sure to drop the ranking from the table with the stats on it because I wanted th
 Once that was dropped, I just merged the two tables together using their names as the key to join on. The one problem with my data is that there is a lot of golfers who 
 are no longer on the PGA Tour but are still on the world rankings. The stats for players not on the PGA Tour is not as available as for the golfers who do play on the Tour.
 Here is an example of the data and a few of the top ranked golfers.
+
 
 ![Figure](https://raw.githubusercontent.com/bolive2/my386blog/main/assets/images/GolferChart.png)
 
@@ -30,3 +37,5 @@ in the world have strengths and weaknesses to their game. I want to see which st
 
 By my next blog post, I want to be able to see what things golfers should work on the most to improve their game. I am hoping that by seeing the trends among the professional
 golfers, I will be able to see what ways the top golfers are able to seperate themselves from the rest of the pack. 
+
+Here is a link to the github repository with the code I used: https://github.com/bolive2/golfData

@@ -32,8 +32,11 @@ Here is an example of the data and a few of the top ranked golfers.
 
 The data includes several stats that are important parts of golf as well as the ranking for golfers that have prefromed good enough to receive one. I want to look 
 at the data and see which stats are common among the top golfers and which ones lead to a golfer not being ranked as high. These stats inlcude things like how far 
-on average a golfer drives the ball and how many putts it takes them on an average hole. There is a lot that goes into being a top ranked golfer and even the best golfers 
-in the world have strengths and weaknesses to their game. I want to see which strenghts are the best to have and which weaknesses hurt the most.
+on average a golfer drives the ball and how many putts it takes them on an average hole. There is a lot that goes into being a top ranked golfer and even the best golfers in the world have strengths and weaknesses to their game. I want to see which strenghts are the best to have and which weaknesses hurt the most.
+
+
+![Figure](https://raw.githubusercontent.com/bolive2/my386blog/main/assets/images/driver.jpg)
+
 
 By my next blog post, I want to be able to see what things golfers should work on the most to improve their game. I am hoping that by seeing the trends among the professional
 golfers, I will be able to see what ways the top golfers are able to seperate themselves from the rest of the pack. 

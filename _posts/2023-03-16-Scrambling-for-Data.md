@@ -14,9 +14,9 @@ I did not find any of the extensions on the page so I decided that there wouldn'
 
 Here are links to the two pages where I got the tables from:
 
-https://www.espn.com/golf/stats/player
+[Golfer Stats](https://www.espn.com/golf/stats/player)
 
-https://www.espn.com/golf/rankings
+[Golfer Ranks](https://www.espn.com/golf/rankings)
 
 The data was not all in one table, so I did have to take each table off one by one and join them together. On ESPN, I found a page that had most of these stats for each player. 
 The big one that was missing was the ranking. So I scrapped the web page for the table with the stats and did the same for the table with the rankings. Before joining, I had to make 
@@ -38,4 +38,4 @@ in the world have strengths and weaknesses to their game. I want to see which st
 By my next blog post, I want to be able to see what things golfers should work on the most to improve their game. I am hoping that by seeing the trends among the professional
 golfers, I will be able to see what ways the top golfers are able to seperate themselves from the rest of the pack. 
 
-Here is a link to the github repository with the code I used: https://github.com/bolive2/golfData
+Here is a link to the github repository with the code I used: [Github Repo](https://github.com/bolive2/golfData)

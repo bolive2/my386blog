@@ -3,7 +3,7 @@ layout: post
 title:  "Teeing High and Ranking High"
 author: Brannon Olive
 description: A story of what stats and skills mean to the most when it comes to World Golf Rankings
-image: /assets/images/putter.jpeg
+image: /assets/images/putter.jpg
 ---
 
 ## Introduction
